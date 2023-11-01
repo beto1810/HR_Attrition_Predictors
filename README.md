@@ -92,7 +92,7 @@ First 10 rows
 ---
 ## 🔎  Explore data and test model
 
-### The Process is following -  [Code](https://github.com/beto1810/HR_Attrition_Predictors/blob/main/IBM_HR_Attrition_Performance.ipynb)
+### The Process is following -  [Code](https://github.com/beto1810/HR_Attrition_Predictors/blob/main/IBM_HR_Attrition_Performance%20(1).ipynb)
 
 - Import Library and dataset
 - Explore data
